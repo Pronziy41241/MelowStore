@@ -3,8 +3,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <meta name="og:title" content="Badger's PC">
-    <meta name="og:description" content="The official website of Badger">
+    <meta name="og:title" content="Melow Roleplay">
+    <meta name="og:description" content="The official website of MelowRP">
     <meta name="theme-color" content="#000">
     <meta name="og:image" content="https://i.gyazo.com/a17db9d1cef1e217be9a81fabe1ea750.png">
     <meta name="twitter:card" content="summary_large">
